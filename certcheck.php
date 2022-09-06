@@ -1,7 +1,7 @@
 <?php
 //検査したいサーバ名とFQDNを配列に羅列する
 $servers = [
-    'www.kantei.go.jp'       => 'www.kantei.go.jp',
+    'www.soumu.go.jp'       => 'www.soumu.go.jp',
 ];
 $mail_to = "yourmail@example.com";      //通知先
 $mail_subject = "SSL cert expiration";  //メールのタイトル
